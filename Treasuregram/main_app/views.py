@@ -15,7 +15,7 @@ class Treasure:
         self.location = location
         self.img_url = img_url
 treasures = [
-    Treasure('Gold Nugget', 500.00, 'gold', "Curly's Creek, NM",'nugget.jpg'),
-    Treasure("Fool's Gold", 0, 'pyrite', "Fool's Falls, CO",'gold.jpg'),
-    Treasure('Coffeee Can', 20.00, 'tin', "Acme, CA",'coffe.jpg')
+    Treasure('Gold Nugget', 500.00, 'gold', "Curly's Creek, NM",'https://tineye.com/images/widgets/mona.jpg'),
+    Treasure("Fool's Gold", 0, 'pyrite', "Fool's Falls, CO",'https://tineye.com/images/widgets/mona.jpg'),
+    Treasure('Coffeee Can', 20.00, 'tin', "Acme, CA",'https://tineye.com/images/widgets/mona.jpg')
 ]
